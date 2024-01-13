@@ -11,7 +11,7 @@ Set de date cu 17284 unitățile de învățământ acreditate din mediul preuni
     "siiir": "4061103541",
     "denumire": "Colegiul Naţional \"Sfântul Sava\"",
     "categorie": "Colegiu",
-    "siruta": 179141,
+    "siruta": "179141",
     "localitate": "BUCUREŞTI SECTORUL 1",
     "judet": "B"
 }
